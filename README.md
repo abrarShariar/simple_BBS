@@ -1,14 +1,22 @@
 # A simple bulletin board system
 
-Built with:
+**Built with**:
   
    * HTML5
    * CSS3
    * Bootstrap
    * PHP
    * MySQL
+   
+ **Database**:
+ 
+ A database schema with some sample data is added in the file: [database.sql](https://github.com/abrarShariar/simple_BBS/blob/master/database.sql)
+ 
+ **Connection with MySQL**
+ 
+ Connection with MySQL database is written here: [connection.php](https://github.com/abrarShariar/simple_BBS/blob/master/connection.php)
 
-Screenshots:
+**Screenshots**:
 
 ## Homepage:
 
